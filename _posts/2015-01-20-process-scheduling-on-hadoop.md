@@ -14,6 +14,9 @@ Additionally the slides are available on [Slideshare][slides-james].
 
 Also giving a talk on testing Hadoop jobs was my friend and colleague Elliot West. Here are links to his [video][video-elliot] and [slides][slides-elliot].
 
+There was also an [article][press] following the talks in Computerworld UK.
+
 [slides-james]:  http://www.slideshare.net/huguk/scheduling-hadoop-jobs-at-expedia
 [slides-elliot]: http://www.slideshare.net/huguk/developing-unit-tesatble-software-with-hadoop
 [video-elliot]:  http://youtu.be/x8xJq5Ax2iI
+[press]:         http://www.computerworlduk.com/news/it-business/3593977/expedia-to-double-its-apache-hadoop-cluster-investment-this-year/
