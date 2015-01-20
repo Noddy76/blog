@@ -1,0 +1,13 @@
+# Site settings
+title: "James' Notes"
+email: james@queeg.org
+description: > # this means to ignore newlines until "baseurl:"
+  "James' notes on home automation, Java, Liunx and anything else that
+  crosses his mind"
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
+url: "http://www.queeg.org" # the base hostname & protocol for your site
+twitter_username: noddy_uk
+github_username:  Noddy76
+
+# Build settings
+markdown: kramdown
