@@ -11,3 +11,6 @@ github_username:  Noddy76
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+
